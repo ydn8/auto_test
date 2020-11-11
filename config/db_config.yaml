@@ -1,0 +1,9 @@
+host: 172.16.104.207
+port: 3308
+username: write_user
+password: write_pwd
+database:
+- mia_test2
+- mia_plus
+- mia_plus_test
+charset: utf8

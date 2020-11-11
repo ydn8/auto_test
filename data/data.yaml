@@ -1,0 +1,18 @@
+api_path:
+  login_path: /unioncenter/loginByPass/
+  Params: /crontab/pushCron/push_live_info/220110452
+  index_path: /unioncenter/index
+  live_detail: /liveBroadcast/liveDetail
+user:
+  user1:
+    mobile: '17310853906'
+    password: lz123456
+    country_code: 0086
+host: https://api.iyuansong.com
+data:
+  dvc_id: 8b9f03dc8ad471d611d8a648afe0530b
+  client_type: '2'
+  app_id: zhixing
+  version: 2.5.0
+live_detail_data:
+  live_id: '6'
